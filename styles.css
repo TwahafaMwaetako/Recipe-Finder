@@ -55,6 +55,7 @@ button {
 
 button:hover {
     background-color: #51e02e;
+    text-emphasis-color: black;
 }
 
 #recipe-list {
